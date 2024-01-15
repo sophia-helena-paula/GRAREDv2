@@ -1,4 +1,4 @@
-Scientific Initiation and Internship Project of the Laboratory of Potential Methods of IAG-USP, aiming to build a Python gravimetric reduction program with GUI.
+Scientific Initiation and Internship Project of the Laboratory of Potential Methods of IAG-USP.
 
 Any questions or suggestions, please contact: sophia.helena.paula@gmail.com or danilo_p@usp.br, with the following subject: GRAREDv2.
 
