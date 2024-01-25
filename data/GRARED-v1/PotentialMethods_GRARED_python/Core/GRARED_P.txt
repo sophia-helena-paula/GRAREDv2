@@ -1,0 +1,1 @@
+Pt.	Leit.1	Leit.2	Leit.3	Hor.	Min.	Altura_Instr.	Lat_G	Lat_M	Lat_S	Lon_G	Lon_M	Lon_S	Alti.
