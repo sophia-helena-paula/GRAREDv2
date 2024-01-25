@@ -1,6 +1,6 @@
 PUB project of the Laboratory of Potential Methods of IAG-USP.
 
-Any questions or suggestions, please contact: sophia.helena.paula@gmail.com or danilo_p@usp.br, with the following subject: GRAREDv2.
+Any questions or suggestions, please contact: sophia.helena.paula@gmail.com or sophia_helena@usp.br, with the following subject: GRAREDv2.
 
 All code and files of this git can be freely used, modified and distributed under the condition of giving the author the rightful credits.
 
